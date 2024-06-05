@@ -45,7 +45,7 @@ After installing the necessary dependencies:
 ## Contributing
 Contributions to this project are welcome! Here's how you can contribute:
 
-## Fork this repository.
+- Fork this repository.
 - Create a new branch for your modifications (git checkout -b feature-branch).
 - Make the necessary changes to your fork.
 - Commit your changes (git commit -am 'Add some feature').
