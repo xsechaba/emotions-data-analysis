@@ -4,12 +4,11 @@ This repository hosts a Jupyter Notebook dedicated to analyzing emotions express
 
 ## Viewing the Notebook
 Due to the size and complexity of the Jupyter Notebook, it might not render directly on GitHub. You can view the notebook directly using [nbviewer](https://nbviewer.jupyter.org/) by pasting the GitHub URL there. Alternatively, for the best experience, clone the repository and view the notebook locally:
-
 ```bash
 git clone https://github.com/xsechaba/emotions-data-analysis.git
 cd emotions-data-analysis
 jupyter notebook
-
+```
 
 ## Project Objectives
 
