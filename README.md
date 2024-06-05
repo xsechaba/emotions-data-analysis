@@ -2,6 +2,15 @@
 
 This repository hosts a Jupyter Notebook dedicated to analyzing emotions expressed in tweets. The project leverages a dataset of English Twitter messages, each labeled with one of six emotions: anger, fear, joy, love, sadness, and surprise, to explore and visualize the emotional undertones of social media interactions.
 
+## Viewing the Notebook
+Due to the size and complexity of the Jupyter Notebook, it might not render directly on GitHub. You can view the notebook directly using [nbviewer](https://nbviewer.jupyter.org/) by pasting the GitHub URL there. Alternatively, for the best experience, clone the repository and view the notebook locally:
+
+```bash
+git clone https://github.com/xsechaba/emotions-data-analysis.git
+cd emotions-data-analysis
+jupyter notebook
+
+
 ## Project Objectives
 
 - To classify tweets by emotion using data science techniques.
