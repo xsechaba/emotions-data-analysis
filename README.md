@@ -14,8 +14,6 @@ The dataset used in this analysis is the "Emotions" dataset, which consists of E
 
 [Emotions Dataset on Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/emotions)
 
-Please download the dataset directly from Kaggle and place it in the `data/` directory after cloning this repository.
-
 ## Installation
 
 To run the Jupyter notebook in this repository, follow these steps:
