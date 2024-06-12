@@ -1,4 +1,4 @@
-# Emotions Data Analysis
+# Emotions Data Exploration
 
 This repository hosts a Jupyter Notebook dedicated to analyzing emotions expressed in tweets. The project leverages a dataset of English Twitter messages, each labeled with one of six emotions: anger, fear, joy, love, sadness, and surprise, to explore and visualize the emotional undertones of social media interactions.
 
@@ -20,11 +20,11 @@ To run the Jupyter notebook in this repository, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/xsechaba/emotions-data-analysis.git
+   git clone https://github.com/xsechaba/emotions-data-exploration.git
 
 2. Navigate to the repository directory:
    ```bash
-   cd emotions-data-analysis
+   cd emotions-data-exploration
 
 3. Install required Python packages:
    ```bash
@@ -40,7 +40,7 @@ After installing the necessary dependencies:
    ```bash
    jupyter notebook
 
-3. Open the Emotions Data Analysis.ipynb notebook from the Jupyter dashboard to run the analysis.
+3. Open the Emotions Data Exploration.ipynb notebook from the Jupyter dashboard to run the exploration.
 
 ## Contributing
 Contributions to this project are welcome! Here's how you can contribute:
@@ -55,10 +55,10 @@ Contributions to this project are welcome! Here's how you can contribute:
 - This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Viewing the Notebook
-Due to the size and complexity of the Jupyter Notebook, it might not render directly on GitHub. You can view the notebook directly using [nbviewer](https://nbviewer.jupyter.org/) by pasting the GitHub URL there. Alternatively, for the best experience, clone the repository and view the notebook locally:
+Due to the size and complexity of the Jupyter Notebook, it might not render directly on GitHub. You can view the notebook directly using [nbviewer](https://nbviewer.jupyter.org/) by pasting the GitHub URL there or view it on my [Kaggle account]([https://nbviewer.jupyter.org/](https://www.kaggle.com/code/sechabamohlabeng/emotions-data-exploration)). Alternatively, for the best experience, clone the repository and view the notebook locally:
 ```bash
-git clone https://github.com/xsechaba/emotions-data-analysis.git
-cd emotions-data-analysis
+git clone https://github.com/xsechaba/emotions-data-exploration.git
+cd emotions-data-exploration
 jupyter notebook
 ```
 
