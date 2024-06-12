@@ -55,7 +55,7 @@ Contributions to this project are welcome! Here's how you can contribute:
 - This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Viewing the Notebook
-Due to the size and complexity of the Jupyter Notebook, it might not render directly on GitHub. You can view the notebook directly using [nbviewer](https://nbviewer.jupyter.org/) by pasting the GitHub URL there or view it on my [Kaggle account]([https://nbviewer.jupyter.org/](https://www.kaggle.com/code/sechabamohlabeng/emotions-data-exploration)). Alternatively, for the best experience, clone the repository and view the notebook locally:
+Due to the size and complexity of the Jupyter Notebook, it might not render directly on GitHub. You can view the notebook directly using [nbviewer](https://nbviewer.jupyter.org/) by pasting the GitHub URL there or view it on my [Kaggle account](https://www.kaggle.com/code/sechabamohlabeng/emotions-data-exploration). Alternatively, for the best experience, clone the repository and view the notebook locally:
 ```bash
 git clone https://github.com/xsechaba/emotions-data-exploration.git
 cd emotions-data-exploration
