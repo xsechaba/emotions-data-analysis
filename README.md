@@ -34,7 +34,7 @@ To run the Jupyter notebook in this repository, follow these steps:
 
 After installing the necessary dependencies:
 
-1. Place the downloaded dataset from Kaggle into the data/ directory.
+1. Place the downloaded dataset from Kaggle into the emotionsdata/ directory.
 
 2. Start Jupyter Notebook:
    ```bash
